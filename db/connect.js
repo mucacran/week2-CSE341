@@ -30,3 +30,15 @@ module.exports = {
     initDb,
     getDb
 };
+
+
+
+/*
+const { MongoClient, ServerApiVersion } = require('mongodb');
+const uri = "mongodb+srv://el_mucacran_rasta:<password>@cluster0.w4yyxxg.mongodb.net/?retryWrites=true&w=majority";
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
+client.connect(err => {
+  const collection = client.db("test").collection("devices");
+  // perform actions on the collection object
+  client.close();
+});*/
