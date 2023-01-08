@@ -8,6 +8,10 @@
     "devStart": "nodemon server.js",
     "start": "server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucacran/cse341-backend2-2023.git"
+  },
   "author": "Sergio Bravo Moran",
   "license": "ISC",
   "dependencies": {
