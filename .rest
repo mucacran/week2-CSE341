@@ -2,3 +2,5 @@
 
 
 GET https://cse341-backend2-2023.onrender.com/
+
+GET http://local:3000/
