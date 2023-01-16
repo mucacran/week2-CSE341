@@ -1,11 +1,8 @@
-GET https://cse341-test.onrender.com/contacts
+GET http://localhost:8082/
 ###
 
-GET https://cse341-backend2-2023.onrender.com/
+GET http://localhost:8082/contacts
 ###
 
-GET http://localhost:3000/
-###
-
-GET https://localhost:3000/contacts
+GET https://week2-cse341.onrender.com
 ###
