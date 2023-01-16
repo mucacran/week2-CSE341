@@ -7,3 +7,5 @@ GET https://cse341-backend2-2023.onrender.com/
 GET http://localhost:3000/
 ###
 
+GET https://localhost:3000/contacts
+###
