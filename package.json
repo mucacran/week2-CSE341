@@ -5,12 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "devStart": "nodemon ./src/server.js",
-    "start": "node ./src/server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mucacran/cse341-backend2-2023.git"
+    
+    "start": "nodemon ./src/server.js"
   },
   "author": "Sergio Bravo Moran",
   "license": "ISC",
